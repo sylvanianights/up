@@ -151,7 +151,7 @@ colour: 85
 fundCostMultiplier: 49
 id: 14
 layout:
-- - - -1
+- - - 8
     - 1
     - 0
     - -1
@@ -285,4 +285,15 @@ tiles:
       filename: industries/farm/8.png
       left: -31
       top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/farm/9.png
+      left: -31
+      top: 0
 type: primary
