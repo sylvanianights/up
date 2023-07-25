@@ -98,9 +98,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- STSH
-- COAT
 - GLAS
+- COAT
+- STSH
 cargoProduction:
 - VBOD
 colour: 194
