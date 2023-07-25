@@ -265,7 +265,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 2022
+      filename: industries/iron-ore-mine/11.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
