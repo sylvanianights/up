@@ -10,7 +10,7 @@ layout:
 name: Copper Mine
 placement: anywhere
 probabilityInGame: 5
-probabilityMapGen: 3
+probabilityMapGen: 10
 prospectChance: 75
 tiles: []
 type: primary
