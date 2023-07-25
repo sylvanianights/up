@@ -285,4 +285,26 @@ tiles:
       filename: industries/iron-ore-mine/10.png
       left: -31
       top: -90
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/iron-ore-mine/12.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/iron-ore-mine/13.png
+      left: -31
+      top: 0
 type: primary
